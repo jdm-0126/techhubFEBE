@@ -1,0 +1,1 @@
+SELECT * FROM hubtechdb.recharge_transactions;
